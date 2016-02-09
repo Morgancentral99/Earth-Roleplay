@@ -1,2 +1,2 @@
 # Earth-Roleplay
-This app will not be out probley till the end of this year due to the shear hardness of modeling and making servers and coding the game and website!
+This will be here during the INDEV Fase then will be DELETED
